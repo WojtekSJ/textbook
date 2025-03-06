@@ -21,3 +21,13 @@ the textbook is a Jupyter notebook in the [`notebooks`](./notebooks) folder.
     url = {https://github.com/Qiskit/textbook}, 
 }
 ```
+
+
+Sorry was in some work
+ 
+we already have informed Shantaram to hold on with this exercise
+ 
+RDD IT team is currently running at full capacity and, unfortunately, cannot accommodate the support required for this project at this time
+ 
+Thanks for understanding
+ 
